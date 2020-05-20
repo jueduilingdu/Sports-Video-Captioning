@@ -1,7 +1,9 @@
 # Sports-Video-Captioning
 "Sports video captioning by attentive motion representation based hierarchical recurrent neural networks", in MMSports' 18
 
-We provide the dataset of Sports Video Captioning Dataset-Volleyball. If you use this dataset for your research, please cite:
+We provide the dataset of Sports Video Captioning Dataset-Volleyball (Due to the confidental limit, the coda and dataset currently are not available). 
+
+If you use this dataset for your research, please cite:
 
 Sports video captioning by attentive motion representation based hierarchical recurrent neural networks,
 https://dl.acm.org/citation.cfm?id=3265851,
